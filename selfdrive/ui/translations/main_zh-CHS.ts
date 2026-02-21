@@ -973,7 +973,7 @@ Reboot now?</source>
     </message>
     <message>
         <source>Driver Camera</source>
-        <translation>驾驶员摄像头</translation>
+        <translation>手机前摄</translation>
     </message>
     <message>
         <source>PREVIEW</source>
